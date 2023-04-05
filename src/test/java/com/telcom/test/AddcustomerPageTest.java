@@ -13,7 +13,7 @@ public class AddcustomerPageTest extends BaseClass {
 	
 	public AddcustomerPageTest() {
 		
-		super();//Test
+		super();//Test2023
 		
 	}
 	
